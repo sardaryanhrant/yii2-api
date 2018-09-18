@@ -1,0 +1,5 @@
+{
+    "require": {
+        "yiisoft/yii2-swiftmailer": "^2.1"
+    }
+}
